@@ -466,6 +466,10 @@ html {
         margin-left: 20px;
     }
 
+    .nav-actions .cta-btn {
+        display: none;
+    }
+
     .nav-links {
         position: fixed;
         top: 80px;
